@@ -46,7 +46,7 @@ Sou **autista**, o que me proporciona um hiperfoco em áreas como **astronomia**
 
 ## 📈 Estatísticas do GitHub
 
-![Matheus's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SeuUsuario&show_icons=true&theme=dracula)
+![Matheus's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Matheus-Emanue123&show_icons=true&theme=dracula)
 
 ## 🤝 Contribuições
 
@@ -54,5 +54,5 @@ Atualmente, estou começando minha jornada no desenvolvimento de projetos. Fique
 
 ---
 
-![Snake animation](https://github.com/SeuUsuario/SeuUsuario/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Matheus-Emanue123/Matheus-Emanue123/blob/output/github-contribution-grid-snake.svg)
 
