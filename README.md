@@ -1,12 +1,12 @@
 # 👋 Olá! Eu sou Matheus Emanuel da Silva
 
-![Banner](https://via.placeholder.com/1200x300?text=Bem-vindo+ao+meu+GitHub!)
+![Banner](https://i.imgur.com/oQnRUfV.jpeg)
 
 ## 📚 Sobre Mim
 
 Estudante de **Engenharia de Computação** no **CEFET-MG Campus V, Divinópolis**, atualmente no **4° Período**. Tenho paixão por programação, especialmente com **Python** e **Java**, e estou sempre em busca de aprender novas tecnologias e aprimorar minhas habilidades.
 
-Sou **autista**, o que me proporciona um hiperfoco em áreas como **astronomia** e **física**, além de me ajudar a desenvolver uma visão única para resolver problemas complexos.
+Sou **autista**, o que me proporciona um hiperfoco em áreas como **astronomia**, **física**, **matemática** e **ciência de dados**, além de me ajudar a desenvolver uma visão única para resolver problemas complexos.
 
 ## 🛠️ Habilidades Técnicas
 
@@ -37,7 +37,8 @@ Sou **autista**, o que me proporciona um hiperfoco em áreas como **astronomia**
 
 - **Jogos Competitivos:** Adoro desafios e a estratégia envolvida nos jogos.
 - **Vôlei:** Pratico regularmente e valorizo o trabalho em equipe.
-- **Astronomia e Física:** Tenho um grande interesse e dedicacão para estudar esses campos.
+- **Astronomia, Física e Matemática:** Tenho um grande interesse e dedicação para estudar esses campos.
+- **Machine Learning e Ciência de Dados:** Estou me aprofundando nessas áreas e buscando aplicar meus conhecimentos em projetos práticos.
 
 ## 📫 Como Me Encontrar
 
@@ -46,7 +47,7 @@ Sou **autista**, o que me proporciona um hiperfoco em áreas como **astronomia**
 
 ## 📈 Estatísticas do GitHub
 
-![Matheus's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Matheus-Emanue123&show_icons=true&theme=dracula)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Matheus-Emanue123&show_icons=true&theme=dracula)
 
 ## 🤝 Contribuições
 
@@ -54,5 +55,4 @@ Atualmente, estou começando minha jornada no desenvolvimento de projetos. Fique
 
 ---
 
-![Snake animation](https://github.com/Matheus-Emanue123/Matheus-Emanue123/blob/output/github-contribution-grid-snake.svg)
-
+![Animação Snake](https://github.com/Matheus-Emanue123/Matheus-Emanue123/blob/output/github-contribution-grid-snake.svg)
