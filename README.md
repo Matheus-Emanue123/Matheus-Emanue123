@@ -6,7 +6,7 @@
 
 I'm a **Computer Engineering** student at **CEFET-MG Campus V, Divinópolis**, currently in my **5th semester**. I have a passion for programming, especially with **Python** and **Java**, and I'm always looking to learn new technologies and improve my skills.
 
-I'm **autistic**, which gives me hyperfocus in areas like **astronomy**, **physics**, **mathematics**, and **data science**. It also helps me develop a unique perspective when solving complex problems.
+I'm **autistic**, which gives me hyperfocus in areas like **astronomy** and **physics**. It also helps me develop a unique perspective when solving complex problems.
 
 ---
 
