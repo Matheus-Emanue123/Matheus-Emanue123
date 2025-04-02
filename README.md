@@ -35,6 +35,8 @@ I'm **autistic**, which gives me hyperfocus in areas like **astronomy**, **physi
 - Participation in Knowledge Olympiads:
   - 🥇 OBF – Brazilian Physics Olympiad  
   - 🥇 OBB – Brazilian Biology Olympiad  
+  - 🥇 OBA – Brazilian Astronautic and Astronomy Olympiad  
+  - 🥇 ONC – National Science Olympiad  
   - 🥇 OMP – Poliedro's Mathematics Olympiad  
   - 🥇 OBQJR – Brazilian Junior Chemistry Olympiad  
   - 🥇 Kangaroo Math Competition  
